@@ -1,6 +1,6 @@
 //Write a function to say what a number squared equals
 
-//Use a for loop to log the square of every number between 1-20
+//Use a for loop to log the square of every number between 1-16
 
 //Create and append a new div to put these results in the page
 	//var div = document.createElement('div');
